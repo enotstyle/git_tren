@@ -5,7 +5,7 @@ public class NewTest {
 
     @Test
     void newTest() {
-        System.out.println("This is test");
+        System.out.println("This is test 1337");
         Assertions.assertTrue(3 > 2);
     }
 }
